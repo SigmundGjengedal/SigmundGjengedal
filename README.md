@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sigmund Gjengedal</h1>
 <h3 align="center">IT student and frontend developer from Norway</h3>
 
 
