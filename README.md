@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Swift, Vue, C#, graphql**
 
-- 💬 Ask me about **REACT**
-
 - 📫 How to reach me **sigmund.gjengedal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
