@@ -1,7 +1,7 @@
 <h3 align="center">IT student and frontend developer from Norway</h3>
 
 
-<p align="center">- 🌱 I’m currently learning Swift, Vue, Ionic, C#, Graphql</p>
+<p align="center">- 🌱 I’m currently learning Swift, Vue, Ionic, C#, GraphiQL</p>
 
 
 <h3 align="center">Connect with me:</h3>
