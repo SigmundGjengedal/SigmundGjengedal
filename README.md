@@ -1,7 +1,7 @@
-<h3 align="center">IT student and frontend developer from Norway</h3>
+<h3 align="center">App and frontend developer from Norway</h3>
 
 
-<p align="center">- 🌱 I’m currently learning Swift, Vue, Capacitor, C#, GraphQL</p>
+<p align="center">- 🌱 I’m currently working with swift Ios, React, Firebase and Postgres</p>
 
 
 <h3 align="center">Connect with me:</h3>
